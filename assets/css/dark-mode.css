@@ -1,0 +1,89 @@
+[data-theme="dark"] {
+    background-color: #111 !important;
+    color: #eee;
+}
+[data-theme="dark"] .header {
+    background: url(../img/coco-header.png) no-repeat center center;
+    background-position: bottom !important;
+}
+[data-theme="dark"] footer {
+    background: url(../img/coco-footer.png) no-repeat center center;
+    background-position: top !important;
+}
+[data-theme="dark"] footer .footer-social li a {
+    color: rgb(255 255 255 / 87%);
+    background: rgba(255, 255, 255, 0.11);
+}
+[data-theme="dark"] table {
+    background-color: #272727;
+}
+[data-theme="dark"] .table>thead>tr>th {
+    border-bottom: 1px solid rgba(221, 221, 221, 0.24);
+}
+[data-theme="dark"] .table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #272727;
+}
+[data-theme="dark"] .table-hover>tbody>tr:hover {
+    background-color: #000;
+}
+[data-theme="dark"] .section-currencies-table td {
+    color: rgba(255, 255, 255, 0.95);
+}
+[data-theme="dark"] .convert-box {
+    background-color: #272727;
+}
+[data-theme="dark"] label.label {
+    color: rgb(255 255 255 / 80%);
+    font-weight: 500;
+}
+[data-theme="dark"] .input-wrap .form-control {
+    background: #3f3f3f;
+    color: rgba(255, 255, 255, 0.9);
+    border: none;
+}
+[data-theme="dark"] button.btn.dropdown-toggle.btn-light {
+    background-color: #181818 !important;
+    border: none;
+}
+[data-theme="dark"] .currency_name {
+    color: rgba(255, 255, 255, 0.9);
+}
+[data-theme="dark"] .bootstrap-select .dropdown-menu {
+    background: #181818;
+}
+[data-theme="dark"] .bs-searchbox input.form-control {
+    border: 1px solid rgba(222, 222, 222, 0.2);
+    background: #272727;
+    color: rgba(255, 255, 255, 0.9);
+}
+[data-theme="dark"] .bootstrap-select .dropdown-menu li a {
+    background: #181818;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+[data-theme="dark"] .dropdown-toggle::after {
+    border-top: .3em solid rgb(255 255 255 / 49%);
+}
+[data-theme="dark"] .slider{
+    background-color: #272727;
+    box-shadow: 0 0 10px #3a3737;
+}
+[data-theme="dark"] .slider:before {
+    left: auto;
+    right: 5px;
+}
+[data-theme="dark"] .switch i {
+    left: 5px;
+}
+[data-theme="dark"] input:checked + .slider:before {
+    transform: translate(-5px, -50%);
+}
+[data-theme="dark"] .switch i:before {
+    content: "\f186";
+    color: rgb(255 255 255 / 56%);
+}
+[data-theme="dark"] tr {
+    border-top: 1px solid rgb(255 255 255 / 15%);
+}
+[data-theme="dark"] thead tr {
+    border: none;
+}
