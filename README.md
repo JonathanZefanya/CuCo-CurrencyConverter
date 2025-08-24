@@ -44,7 +44,7 @@ Kontribusi sangat terbuka! Silakan fork, buat pull request, atau laporkan isu. ð
 
 ## Lisensi
 
-MIT License
+MIT License (MIT License)
 
 ---
 
